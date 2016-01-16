@@ -1,0 +1,3 @@
+alur program , jadi ada login admin server atau super admin buat kelola data toko yang mendaftar ada juga login toko buat kelola data toko kaya input data sepatu (kaya new arrival , best seler , harga promosi , new produk dll ) sama detail sepatu di detail itu ada nama sepatu  ,jenis sepatu, ukuran , warna dan harganya . nah pas klik detail muncul si detail sepatunya nah pas di bawahnya langsung ada rekomendid tokonya 3 atau 2 tako sepatu yang terdekat sama kita. trus ada form buat daftar toko buat toko yang mau bergabung atau daftar .
+ 
+tolongin ya gelar , soalnya aku gatau harus minta tolong ke siapa lagi :( sebelumnya makasih lho gelar :)
